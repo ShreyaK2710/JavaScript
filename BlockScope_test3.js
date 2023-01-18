@@ -1,5 +1,5 @@
 const logVisibleLightWaves = () => {
-  const lightWaves = 'Moonlight';
+  const lightWaves = 'Moonlight'; 
   console.log(lightWaves);
 };
 
